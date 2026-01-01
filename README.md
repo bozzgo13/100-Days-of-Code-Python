@@ -1,2 +1,11 @@
-# 100-Days-of-Code-Python
-A comprehensive collection of Python projects and daily challenges from the "100 Days of Code" Bootcamp. Tracking my path from Python basics to professional-grade development.
+# 100 Days of Code - Python Bootcamp
+
+This repository contains my solutions and projects for the **100 Days of Code: The Complete Python Pro Bootcamp**.
+
+## 📅 Progress Tracker
+| Day | Project | Topics Covered |
+| :--- | :--- | :--- |
+| Day 1 | Band Name Generator | Strings, Variables |
+
+## 🛠️ Tech Stack
+- **Language:** Python 3
