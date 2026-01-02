@@ -6,6 +6,7 @@ This repository contains my solutions and projects for the **100 Days of Code: T
 | Day | Project | Topics Covered |
 | :--- | :--- | :--- |
 | Day 1 | Band Name Generator | Strings, Variables |
+| Day 2 | Tip Calculator | Data Types, Numbers, Operations, Type Conversion, f-Strings |
 
 ## 🛠️ Tech Stack
 - **Language:** Python 3
