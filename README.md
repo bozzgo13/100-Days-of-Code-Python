@@ -1,6 +1,9 @@
 # 100 Days of Code - Python Bootcamp
 
-This repository contains my solutions and projects for the **100 Days of Code: The Complete Python Pro Bootcamp**.
+This repository contains my exercises and projects for the **100 Days of Code: The Complete Python Pro Bootcamp**.
+
+- **Course Link:** [100 Days of Code on Udemy](https://www.udemy.com/course/100-days-of-code/)
+- **Instructor:** [Dr. Angela Yu](https://www.udemy.com/course/100-days-of-code/#instructor-1)
 
 ## 📅 Progress Tracker
 | Day | Project | Topics Covered |
