@@ -12,6 +12,7 @@ This repository contains my exercises and projects for the **100 Days of Code: T
 | Day 2 | Tip Calculator | Data Types, Numbers, Operations, Type Conversion, f-Strings |
 | Day 3 | Treasure Island | Conditional Statemenst, Logical Operators, Code Blocks and Scope |
 | Day 4 | Rock Paper Scissors | Randomisation and Python Lists |
+| Day 5 | Password Generator | For loops, Range and Code Blocks |
 
 ## 🛠️ Tech Stack
 - **Language:** Python 3
