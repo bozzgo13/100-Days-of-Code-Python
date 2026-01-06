@@ -30,3 +30,19 @@ Hurdle 4 is significantly more difficult because the **height of the hurdles is 
 
 **Solution:** [Hurdle4.py](./Hurdle4.py)  
 **Play:** [Hurdle 4 Level](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%204&url=worlds%2Ftutorial_en%2Fhurdle4.json)
+
+---
+
+# Today’s project
+Today’s project task was to help Reeborg escape the maze.
+The instructions were very helpful:
+The secret is to have Reeborg follow along the right edge of the maze, turning right if it can, going straight ahead if it can’t turn right, or turning left as a last resort.
+
+The maze stays the same every time the program runs, but Reeborg appears at a random position and faces a random direction.
+
+| Scenario 1 | Scenario 2 | Scenario 3 |
+| :---: | :---: | :---: |
+| ![Maze - 1](images/project1.jpg) | ![Maze - 2](images/project2.jpg) | ![Maze - 3](images/project3.jpg) |
+
+**Solution:** [project.py](./project.py)  
+**Play:** [Maze Level](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
