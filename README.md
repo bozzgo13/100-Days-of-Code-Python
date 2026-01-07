@@ -14,6 +14,7 @@ This repository contains my exercises and projects for the **100 Days of Code: T
 | Day 4 | Rock Paper Scissors | Randomisation and Python Lists |
 | Day 5 | Password Generator | For loops, Range and Code Blocks |
 | Day 6 | Escaping the Maze | Code Blocks, Functions, While loop |
+| Day 7 | Hangman | |
 
 ## 🛠️ Tech Stack
 - **Language:** Python 3
