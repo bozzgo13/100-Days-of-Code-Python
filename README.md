@@ -15,6 +15,6 @@ This repository contains my exercises and projects for the **100 Days of Code: T
 | Day 5 | Password Generator | For loops, Range and Code Blocks |
 | Day 6 | Escaping the Maze | Code Blocks, Functions, While loop |
 | Day 7 | Hangman | |
-
+| Day 8 | Caesar Cipher | Function Parameters|
 ## 🛠️ Tech Stack
 - **Language:** Python 3
