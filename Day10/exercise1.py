@@ -1,0 +1,51 @@
+# Write a program that returns True or False whether if a given year is a leap year.
+# A normal year has 365 days, leap years have 366, with an extra day in February. The reason why we have leap years
+# is really fascinating, this video does it more justice: https://www.youtube.com/watch?v=xX96xng7sAE
+
+# This is how you work out whether if a particular year is a leap year.
+# - on every year that is divisible by 4 with no remainder
+# - except every year that is evenly divisible by 100 with no remainder
+# - unless the year is also divisible by 400 with no remainder
+
+# e.g. The year 2000:
+# 2000 ÷ 4 = 500 (Leap)
+# 2000 ÷ 100 = 20 (Not Leap)
+# 2000 ÷ 400 = 5 (Leap!)
+# So the year 2000 is a leap year.
+
+# But the year 2100 is not a leap year because:
+# 2100 ÷ 4 = 525 (Leap)
+# 2100 ÷ 100 = 21 (Not Leap)
+# 2100 ÷ 400 = 5.25 (Not Leap)
+
+
+
+def is_leap_year(year):
+    test1 = year % 4
+    test2 = year % 100
+    test3 = year % 400
+
+    if test1 == 0:
+        if test2 != 0:
+            return True
+        else:
+            if test3 == 0:
+                return True
+
+    return False
+
+
+# test_leap_year_2000 True
+print(is_leap_year(2000))
+# test_leap_year_2020 True
+print(is_leap_year(2020))
+# test_leap_year_2024 True
+print(is_leap_year(2024))
+# test_leap_year_2400 True
+print(is_leap_year(2400))
+# test_not_leap_year_1700 False
+print(is_leap_year(1700))
+# test_not_leap_year_1989 False
+print(is_leap_year(1989))
+# test_not_leap_year_2100 False
+print(is_leap_year(2100))

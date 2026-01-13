@@ -17,6 +17,6 @@ This repository contains my exercises and projects for the **100 Days of Code: T
 | Day 7 | Hangman | |
 | Day 8 | Caesar Cipher | Function Parameters|
 | Day 9 | The secret auction | Dictionaries|
-
+| Day 10 | The calculator | Functions with output|
 ## 🛠️ Tech Stack
 - **Language:** Python 3
