@@ -18,5 +18,6 @@ This repository contains my exercises and projects for the **100 Days of Code: T
 | Day 8 | Caesar Cipher | Function Parameters|
 | Day 9 | The secret auction | Dictionaries|
 | Day 10 | The calculator | Functions with output|
+| Day 11 | Black Jack logic | |
 ## 🛠️ Tech Stack
 - **Language:** Python 3
