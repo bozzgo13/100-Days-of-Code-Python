@@ -19,5 +19,6 @@ This repository contains my exercises and projects for the **100 Days of Code: T
 | Day 9 | The secret auction | Dictionaries|
 | Day 10 | The calculator | Functions with output|
 | Day 11 | Black Jack logic | |
+| Day 12 | Number Guessing Game | Scope |
 ## 🛠️ Tech Stack
 - **Language:** Python 3
