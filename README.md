@@ -22,5 +22,6 @@ This repository contains my exercises and projects for the **100 Days of Code: T
 | Day 12 | Number Guessing Game | Scope |
 | Day 13 | | Debuging |
 | Day 14 | | Higher Lower Game |
+| Day 15 | | Coffee Machine Simulator |
 ## 🛠️ Tech Stack
 - **Language:** Python 3
