@@ -25,5 +25,6 @@ This repository contains my exercises and projects for the **100 Days of Code: T
 | Day 15 | Coffee Machine Simulator | |
 | Day 16 | Building the Coffee Machine in OOP | Object-oriented programming (OOP)|
 | Day 17 | The Quiz | Object-oriented programming|
+| Day 18 | The Hirst Painting Project | |
 ## 🛠️ Tech Stack
 - **Language:** Python 3
