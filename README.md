@@ -26,5 +26,6 @@ This repository contains my exercises and projects for the **100 Days of Code: T
 | Day 16 | Building the Coffee Machine in OOP | Object-oriented programming (OOP)|
 | Day 17 | The Quiz | Object-oriented programming|
 | Day 18 | The Hirst Painting Project | |
+| Day 19 | Etch-A-Sketch, Turtle racing game | More Turtle graphics, Event listeners |
 ## 🛠️ Tech Stack
 - **Language:** Python 3
