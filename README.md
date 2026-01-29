@@ -28,5 +28,6 @@ This repository contains my exercises and projects for the **100 Days of Code: T
 | Day 18 | The Hirst Painting Project | |
 | Day 19 | Etch-A-Sketch, Turtle racing game | More Turtle graphics, Event listeners |
 | Day 20 | Snake game, part 1 | |
+| Day 21 | Snake game, part 2 | Class inheritance & list slicing|
 ## 🛠️ Tech Stack
 - **Language:** Python 3
