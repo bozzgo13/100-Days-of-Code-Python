@@ -30,5 +30,6 @@ This repository contains my exercises and projects for the **100 Days of Code: T
 | Day 20 | Snake game, part 1 | |
 | Day 21 | Snake game, part 2 | Class inheritance & list slicing|
 | Day 22 | The pong game | |
+| Day 23 | Turtle Crossing Capstone | |
 ## 🛠️ Tech Stack
 - **Language:** Python 3
