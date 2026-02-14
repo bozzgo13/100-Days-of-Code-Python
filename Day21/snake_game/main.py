@@ -23,7 +23,6 @@ screen.onkey(key="Right", fun=snake.right)
 
 game_is_on = True
 while game_is_on:
-
     screen.update()  # need to update as tracer is off
     time.sleep(GAME_SLEEP)
     snake.move()
@@ -35,12 +34,12 @@ while game_is_on:
     #detect collision with walls
     if  (snake.head.xcor() >= 280 or snake.head.xcor() <= -280
             or snake.head.ycor() >= 280 or snake.head.ycor() <= -280):
-        game_is_on = False
-        scoreboard.write_gane_over()
+        scoreboard.reset()
+        snake.reset()
+
     # detect collision with tail
     for segment in snake.segments[1:]:
-        if snake.head.distance(segment) < 15:
-            game_is_on = False
-            scoreboard.write_gane_over()
-
+        if snake.head.distance(segment) < 5:
+            scoreboard.reset()
+            snake.reset()
 screen.exitonclick()

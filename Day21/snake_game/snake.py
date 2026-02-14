@@ -50,3 +50,13 @@ class Snake:
         segment.goto(x=last_segment.xcor(), y=last_segment.ycor())
         self.segments.append(segment)
 
+    def reset(self):
+        # remove all elements but first
+        while len(self.segments) > 3:
+            segment = self.segments.pop()
+            segment.hideturtle()
+            segment.clear()
+
+
+
+        self.head.goto(0, 0)
