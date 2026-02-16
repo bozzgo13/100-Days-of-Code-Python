@@ -46,5 +46,6 @@ Below is a list of key Python libraries used in this course, along with their pu
 * **[Pandas](https://pandas.pydata.org/docs/)** – A high-performance library for data manipulation and analysis (DataFrames).
 
 ### 🛠️ Utilities & Data Files
+* **[math](https://docs.python.org/3/library/math.html)** – Provides access to mathematical functions such as `ceil()`, `floor()`, and constants like `pi`.
 * **[random](https://docs.python.org/3/library/random.html)** – A built-in module used to generate pseudo-random numbers, select random elements, and shuffle sequences. (Crucial for games like Rock Paper Scissors and Hangman).
 * **[csv](https://docs.python.org/3/library/csv.html)** – A built-in library for reading and writing tabular data in CSV format. (Used before moving to Pandas).
