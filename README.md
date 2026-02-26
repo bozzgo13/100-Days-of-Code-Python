@@ -33,6 +33,7 @@ This repository contains my exercises and projects for the **100 Days of Code: T
 | Day 23 | [Turtle Crossing Capstone](./Day23) | OOP, Game Turtles |
 | Day 24 | [Mail Merge Project](./Day24) | Files, Directories, and Paths |
 | Day 25 | [CSV Data & Pandas](./Day25) | Reading CSV, Pandas Library |
+| Day 26 | [NATO alphabet](./Day26) | List Comprehension, Dictionary Comprehension |
 ## 🛠️ Tech Stack
 - **Language:** Python 3
 
