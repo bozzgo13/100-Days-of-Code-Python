@@ -34,6 +34,7 @@ This repository contains my exercises and projects for the **100 Days of Code: T
 | Day 24 | [Mail Merge Project](./Day24) | Files, Directories, and Paths |
 | Day 25 | [CSV Data & Pandas](./Day25) | Reading CSV, Pandas Library |
 | Day 26 | [NATO alphabet](./Day26) | List Comprehension, Dictionary Comprehension |
+| Day 27 |  | Tkinter, *args, **kwargs |
 ## 🛠️ Tech Stack
 - **Language:** Python 3
 
@@ -42,6 +43,7 @@ Below is a list of key Python libraries used in this course, along with their pu
 
 ### 🎨 GUI & Graphics
 * **[Turtle](https://docs.python.org/3/library/turtle.html)** – A built-in graphics library for learning the basics of programming and OOP.
+* **[Tkinter](https://docs.python.org/3/library/tkinter.html)** – Python’s standard library for creating desktop Graphical User Interfaces (GUIs).
 
 ### 📊 Data Science & Analysis
 * **[Pandas](https://pandas.pydata.org/docs/)** – A high-performance library for data manipulation and analysis (DataFrames).
