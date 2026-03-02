@@ -1,5 +1,4 @@
 from tkinter import *
-import tkinter
 
 window = Tk()
 window.title("My first GUI program")
