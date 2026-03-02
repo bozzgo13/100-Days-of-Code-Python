@@ -34,7 +34,7 @@ This repository contains my exercises and projects for the **100 Days of Code: T
 | Day 24 | [Mail Merge Project](./Day24) | Files, Directories, and Paths |
 | Day 25 | [CSV Data & Pandas](./Day25) | Reading CSV, Pandas Library |
 | Day 26 | [NATO alphabet](./Day26) | List Comprehension, Dictionary Comprehension |
-| Day 27 |  | Tkinter, *args, **kwargs |
+| Day 27 |  [Mile to Kilometers Converter ](./Day27) | Tkinter, *args, **kwargs |
 ## 🛠️ Tech Stack
 - **Language:** Python 3
 
