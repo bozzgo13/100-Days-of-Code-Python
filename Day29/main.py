@@ -33,7 +33,7 @@ def save_password():
         messagebox_output = messagebox.askokcancel(webside, message=f"These are the details entered: \nUsername/Email:{username} \nPassword:{password}\n Is it ok to save?")
         if messagebox_output:
             with open("data.txt", "a") as data_file:
-                data_file.write(f"{webside} | {username} | {password}\b")
+                data_file.write(f"{webside} | {username} | {password}\n")
             # deleting from entries
             webside_input.delete(0, END)
             password_input.delete(0, END)
