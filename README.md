@@ -36,6 +36,7 @@ This repository contains my exercises and projects for the **100 Days of Code: T
 | Day 26 | [NATO alphabet](./Day26) | List Comprehension, Dictionary Comprehension |
 | Day 27 | [Mile to Kilometers Converter ](./Day27) | Tkinter, *args, **kwargs |
 | Day 28 | [Pomodoro GUI Application](./Day28) | Tkinter |
+| Day 29 | [Password Manager GUI App](./Day29) | Tkinter |
 ## 🛠️ Tech Stack
 - **Language:** Python 3
 
