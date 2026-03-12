@@ -37,6 +37,7 @@ This repository contains my exercises and projects for the **100 Days of Code: T
 | Day 27 | [Mile to Kilometers Converter ](./Day27) | Tkinter, *args, **kwargs |
 | Day 28 | [Pomodoro GUI Application](./Day28) | Tkinter |
 | Day 29 | [Password Manager GUI App](./Day29) | Tkinter |
+| Day 29 | [Password Manager+ GUI App](./Day30) | Errors, Exceptions and JSON Data |
 ## 🛠️ Tech Stack
 - **Language:** Python 3
 
@@ -54,3 +55,4 @@ Below is a list of key Python libraries used in this course, along with their pu
 * **[math](https://docs.python.org/3/library/math.html)** – Provides access to mathematical functions such as `ceil()`, `floor()`, and constants like `pi`.
 * **[random](https://docs.python.org/3/library/random.html)** – A built-in module used to generate pseudo-random numbers, select random elements, and shuffle sequences. (Crucial for games like Rock Paper Scissors and Hangman).
 * **[csv](https://docs.python.org/3/library/csv.html)** – A built-in library for reading and writing tabular data in CSV format. (Used before moving to Pandas).
+* **[json](https://docs.python.org/3/library/json.html)** – A built-in library for parsing and creating JSON data, essential for working with APIs and local data storage.
