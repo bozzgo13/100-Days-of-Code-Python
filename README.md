@@ -38,6 +38,8 @@ This repository contains my exercises and projects for the **100 Days of Code: T
 | Day 28 | [Pomodoro GUI Application](./Day28) | Tkinter |
 | Day 29 | [Password Manager GUI App](./Day29) | Tkinter |
 | Day 30 | [Password Manager+ GUI App](./Day30) | Errors, Exceptions and JSON Data |
+| Day 31 | [Flash Card App](./Day31) | |
+
 ## 🛠️ Tech Stack
 - **Language:** Python 3
 
