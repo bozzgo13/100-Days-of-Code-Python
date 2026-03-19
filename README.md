@@ -39,7 +39,7 @@ This repository contains my exercises and projects for the **100 Days of Code: T
 | Day 29 | [Password Manager GUI App](./Day29) | Tkinter |
 | Day 30 | [Password Manager+ GUI App](./Day30) | Errors, Exceptions and JSON Data |
 | Day 31 | [Flash Card App](./Day31) | |
-
+| Day 32 | [Birthday Wisher](./Day32)| Email SMTP and the datetime module |
 ## 🛠️ Tech Stack
 - **Language:** Python 3
 
@@ -58,3 +58,6 @@ Below is a list of key Python libraries used in this course, along with their pu
 * **[random](https://docs.python.org/3/library/random.html)** – A built-in module used to generate pseudo-random numbers, select random elements, and shuffle sequences. (Crucial for games like Rock Paper Scissors and Hangman).
 * **[csv](https://docs.python.org/3/library/csv.html)** – A built-in library for reading and writing tabular data in CSV format. (Used before moving to Pandas).
 * **[json](https://docs.python.org/3/library/json.html)** – A built-in library for parsing and creating JSON data, essential for working with APIs and local data storage.
+* **[smtplib](https://docs.python.org/3/library/smtplib.html)** – A built-in module for sending emails using the Simple Mail Transfer Protocol.
+* **[os](https://docs.python.org/3/library/os.html)** – Provides a way of using operating system dependent functionality like reading or writing to the file system and managing environment variables.
+* **[Datetime](https://docs.python.org/3/library/datetime.html)** – Standard library for manipulating dates and times.
