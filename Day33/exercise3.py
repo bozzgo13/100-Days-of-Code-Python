@@ -9,13 +9,15 @@ url = "https://api.sunrise-sunset.org/json"
 parameters = {
     "lat": location_MB[0],
     "lng": location_MB[1],
-    "date": date
+    "date": date,
+    "formatted":0,
+    "tzid": "Europe/Ljubljana"
 }
 # Alternatively, we can construct the full URL with query parameters manually:
 # url = f"https://api.sunrise-sunset.org/json?lat={location_MB[0]}&lng={location_MB[1]}&date={date}"
 response = requests.get(url=url, params=parameters)
 
-# example of API response (formated):
+# example of API response (formatted):
 # {
 #   "results": {
 #     "sunrise": "4:56:45 AM",
@@ -33,6 +35,24 @@ response = requests.get(url=url, params=parameters)
 #   "tzid": "UTC"
 # }
 
+# example of API response (not formatted):
+# {
+#   "results": {
+#      "sunrise": "2026-03-21T04:56:45+00:00",
+#      "sunset": "2026-03-21T17:12:24+00:00",
+#      "solar_noon": "2026-03-21T11:04:35+00:00",
+#      "day_length": "44139",
+#      "civil_twilight_begin": "2026-03-21T04:28:10+00:00",
+#      "civil_twilight_end": "2026-03-21T17:40:59+00:00",
+#      "nautical_twilight_begin": "2026-03-21T03:52:42+00:00",
+#      "nautical_twilight_end": "2026-03-21T18:16:28+00:00",
+#      "astronomical_twilight_begin": "2026-03-21T03:16:10+00:00",
+#      "astronomical_twilight_end": "2026-03-21T18:52:59+00:00",
+#   },
+#   "status": "OK",
+#   "tzid": "UTC",
+# }
+
 
 response.raise_for_status()
 data = response.json()
@@ -43,5 +63,5 @@ print(f"Sunset for {date}: {sunset}")
 
 # example of output
 # request: https://api.sunrise-sunset.org/json?lat=46.554649&lng=15.645881&date=today
-# Sunrise for today: 4:56:45 AM
-# Sunset for today: 5:12:24 PM
+# Sunrise for today: 2026-03-21T04:56:45+00:00
+# Sunset for today: 2026-03-21T17:12:24+00:00
