@@ -17,8 +17,6 @@ Below is a visual representation of the game in action:
 
 ![Gameplay Preview](images/snake_game.png)
 
-http://googleusercontent.com/image_collection/image_retrieval/18086382063929146495_0
-
 ## File Structure
 - `main.py`: The main game loop and screen setup.
 - `snake.py`: The `Snake` class managing the body segments, movement, and direction logic.
