@@ -40,7 +40,7 @@ This repository contains my exercises and projects for the **100 Days of Code: T
 | Day 30 | [Password Manager+ GUI App](./Day30) | Errors, Exceptions and JSON Data |
 | Day 31 | [Flash Card App](./Day31) | |
 | Day 32 | [Birthday Wisher](./Day32)| Email SMTP and the datetime module |
-| Day 32 | [ISS Overhead Notifier](./Day33)| API Endpoints & API Parameters |
+| Day 33 | [ISS Overhead Notifier](./Day33)| API Endpoints & API Parameters |
 
 ## 🛠️ Tech Stack
 - **Language:** Python 3
