@@ -42,6 +42,7 @@ This repository contains my exercises and projects for the **100 Days of Code: T
 | Day 32 | [Birthday Wisher](./Day32)| Email SMTP and the datetime module |
 | Day 33 | [ISS Overhead Notifier](./Day33)| API Endpoints & API Parameters |
 | Day 34 | [Quizzler - GUI Quiz App](./Day34)| |
+| Day 35 | [Rain Alert](./Day35) | Keys, Authentication & Environment Variables |
 
 ## 🛠️ Tech Stack
 - **Language:** Python 3
