@@ -43,6 +43,7 @@ This repository contains my exercises and projects for the **100 Days of Code: T
 | Day 33 | [ISS Overhead Notifier](./Day33)| API Endpoints & API Parameters |
 | Day 34 | [Quizzler - GUI Quiz App](./Day34)| |
 | Day 35 | [Rain Alert](./Day35) | Keys, Authentication & Environment Variables |
+| Day 36 | [Stock Trading News Alert](./Day36) |  |
 
 ## 🛠️ Tech Stack
 - **Language:** Python 3
@@ -66,3 +67,4 @@ Below is a list of key Python libraries used in this course, along with their pu
 * **[os](https://docs.python.org/3/library/os.html)** – Provides a way of using operating system dependent functionality like reading or writing to the file system and managing environment variables.
 * **[Datetime](https://docs.python.org/3/library/datetime.html)** – Standard library for manipulating dates and times.
 * **[time](https://docs.python.org/3/library/time.html)** – A built-in module for handling time-related tasks, most commonly used for adding delays to code execution with `time.sleep()`.
+* **[python-dotenv](https://pypi.org/project/python-dotenv/)** – A library that reads key-value pairs from a `.env` file and sets them as environment variables. Essential for keeping API keys and secrets secure.
