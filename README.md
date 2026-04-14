@@ -44,6 +44,7 @@ This repository contains my exercises and projects for the **100 Days of Code: T
 | Day 34 | [Quizzler - GUI Quiz App](./Day34)| |
 | Day 35 | [Rain Alert](./Day35) | Keys, Authentication & Environment Variables |
 | Day 36 | [Stock Trading News Alert](./Day36) |  |
+| Day 37 | [Habit Tracking Project](./Day37) | API post requests & Headers |
 
 ## 🛠️ Tech Stack
 - **Language:** Python 3
