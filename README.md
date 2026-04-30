@@ -46,6 +46,7 @@ This repository contains my exercises and projects for the **100 Days of Code: T
 | Day 36 | [Stock Trading News Alert](./Day36) |  |
 | Day 37 | [Habit Tracking Project](./Day37) | API post requests & Headers |
 | Day 38 | [Exercise Tracking with Google Sheets](./Day38) | Sheety API |
+| Day 39 | [Flight Deal Finder](./Day39) |  |
 
 ## 🛠️ Tech Stack
 - **Language:** Python 3
