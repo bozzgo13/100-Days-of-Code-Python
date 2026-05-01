@@ -48,6 +48,7 @@ This repository contains my exercises and projects for the **100 Days of Code: T
 | Day 37 | [Habit Tracking Project](./Day37)               | API post requests & Headers                                      |
 | Day 38 | [Exercise Tracking with Google Sheets](./Day38) | Sheety API                                                       |
 | Day 39 | [Flight Deal Finder](./Day39)                   |                                                                  |
+| Day 40 | [Flight Club app](./Day40)                      |                                                                  |
 
 ## 🛠️ Tech Stack
 
